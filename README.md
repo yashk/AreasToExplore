@@ -8,6 +8,11 @@ AreasToExplore
 ## Big Data 
 
 ### Theory
-1. Minning Massive Datasets - MMDS (infolab.stanford.edu/~ullman/mmds.html)
+1. Minning Massive Datasets - MMDS (infolab.stanford.edu/~ullman/mmds.html).
+2. Stream Processing.
+
+### Practical
+1. Apache Spark , future Hadoop , cloudera backing it as future of hadoop.
+
 
 
