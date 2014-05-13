@@ -8,7 +8,7 @@ AreasToExplore
 ## Big Data 
 
 ### Theory
-1. Minning Massive Datasets - [MMDS] (infolab.stanford.edu/~ullman/mmds.html) .
+1. Minning Massive Datasets - [MMDS] (http://infolab.stanford.edu/~ullman/mmds.html) .
 2. Stream Processing.
 
 ### Practical
