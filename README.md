@@ -10,6 +10,7 @@ AreasToExplore
 ### Theory
 1. Minning Massive Datasets - [MMDS] (http://infolab.stanford.edu/~ullman/mmds.html) .
 2. Stream Processing.
+3. MS&E 317: Algorithms for Modern Data Models -  [AMDM] (http://web.stanford.edu/~ashishg/amdm/)
 
 ### Practical
 1. Apache Spark , future Hadoop , cloudera backing it as future of hadoop.
