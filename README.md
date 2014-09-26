@@ -15,6 +15,6 @@ AreasToExplore
 
 ### Practical
 1. Apache Spark , future Hadoop , cloudera backing it as future of hadoop.
-
+2.
 
 
