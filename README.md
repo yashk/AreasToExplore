@@ -20,5 +20,6 @@ AreasToExplore
 ## Distributed Systems
 1. Readings in distributed systems - http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html
 2. Book - Distributed System for fun and profit - http://book.mixu.net/distsys/
+3. http://brooker.co.za/blog/
 
 
