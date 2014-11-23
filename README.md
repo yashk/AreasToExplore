@@ -15,7 +15,7 @@ AreasToExplore
 
 ### Practical
 1. Apache Spark , future Hadoop , cloudera backing it as future of hadoop.
-2.
+2. Apache Kafka , goto infra project for realtime event processing.
 
 ## Distributed Systems
 1. Readings in distributed systems - http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html
