@@ -22,4 +22,11 @@ AreasToExplore
 2. Book - Distributed System for fun and profit - http://book.mixu.net/distsys/
 3. http://brooker.co.za/blog/
 
+Latency Measurement
+https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir
+http://taint.org/2014/01/16/145944a.html
+https://twitter.com/aphyr/status/413131322753044480
+
+
+
 
