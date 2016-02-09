@@ -17,6 +17,11 @@ AreasToExplore
 1. Apache Spark , future Hadoop , cloudera backing it as future of hadoop.
 2. Apache Kafka , goto infra project for realtime event processing.
 
+#### Scala
+1. http://twitter.github.io/scala_school/
+2. https://twitter.github.io/effectivescala/
+3. http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html
+
 ## Distributed Systems
 1. Readings in distributed systems - http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html
 2. Book - Distributed System for fun and profit - http://book.mixu.net/distsys/
