@@ -22,13 +22,25 @@ AreasToExplore
 2. Book - Distributed System for fun and profit - http://book.mixu.net/distsys/
 3. http://brooker.co.za/blog/
 4. https://github.com/Randommood/QConSF2015
-5. 
 
-Latency Measurement
+#### Statefull services
+1. https://speakerdeck.com/caitiem20/building-scalable-stateful-services
+2. http://trevmex.com/post/129864905248/building-scalable-stateful-services-strangeloop
+
+## Latency Measurement
 https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir
 http://taint.org/2014/01/16/145944a.html
 https://twitter.com/aphyr/status/413131322753044480
 
+
+## Machine Learning
+
+Pedro
+
+1. http://www.slate.com/articles/technology/bitwise/2015/09/pedro_domingos_master_algorithm_how_machine_learning_is_reshaping_how_we.single.html
+
+2. Dive into machine learning - http://hangtwenty.github.io/dive-into-machine-learning/
+3. Visulisating ML -http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 
 
