@@ -31,6 +31,7 @@ AreasToExplore
 #### Statefull services
 1. https://speakerdeck.com/caitiem20/building-scalable-stateful-services
 2. http://trevmex.com/post/129864905248/building-scalable-stateful-services-strangeloop
+3. https://speakerdeck.com/caitiem20/craftconf-2016-building-scalable-stateful-services
 
 ## Latency Measurement
 https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir
