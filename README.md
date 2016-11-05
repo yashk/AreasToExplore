@@ -1,4 +1,4 @@
-AreasToExplore
+Thoughts Collected
 ==============
 ## Reactive.
 1. Reactive Manifesto (www.reactivemanifesto.org/).
